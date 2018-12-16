@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="dargdropberkaratcom.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESKTOP-U34S2C6</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="DBUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">berk</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="DBServerNameContainsTCPIP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
